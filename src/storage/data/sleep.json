@@ -1,0 +1,52 @@
+{
+  "id": "main",
+  "settings": {
+    "targetHours": 8,
+    "bedTime": "23:00",
+    "wakeTime": "07:30"
+  },
+  "history": [
+    {
+      "date": "01.12.2025",
+      "sleepStart": "23:30",
+      "sleepEnd": "07:00",
+      "hours": 7.5
+    },
+    {
+      "date": "30.11.2025",
+      "sleepStart": "23:00",
+      "sleepEnd": "07:00",
+      "hours": 8
+    },
+    {
+      "date": "29.11.2025",
+      "sleepStart": "00:00",
+      "sleepEnd": "06:00",
+      "hours": 6
+    },
+    {
+      "date": "28.11.2025",
+      "sleepStart": "23:15",
+      "sleepEnd": "06:15",
+      "hours": 7
+    },
+    {
+      "date": "27.11.2025",
+      "sleepStart": "01:00",
+      "sleepEnd": "06:30",
+      "hours": 5.5
+    },
+    {
+      "date": "26.11.2025",
+      "sleepStart": "22:45",
+      "sleepEnd": "07:15",
+      "hours": 8.5
+    },
+    {
+      "date": "25.11.2025",
+      "sleepStart": "23:00",
+      "sleepEnd": "06:00",
+      "hours": 7
+    }
+  ]
+}

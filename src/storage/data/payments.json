@@ -1,0 +1,77 @@
+{
+  "id": "main",
+  "reminders": [
+    {
+      "id": "dorm",
+      "title": "Оплата общежития",
+      "amount": 3500,
+      "dueDate": "01.12.2025",
+      "isRepeating": true,
+      "repeatRule": "monthly",
+      "isPaid": false
+    },
+    {
+      "id": "phone",
+      "title": "Мобильная связь",
+      "amount": 400,
+      "dueDate": "30.11.2025",
+      "isRepeating": true,
+      "repeatRule": "monthly",
+      "isPaid": false
+    },
+    {
+      "id": "internet",
+      "title": "Интернет",
+      "amount": 500,
+      "dueDate": "05.12.2025",
+      "isRepeating": true,
+      "repeatRule": "monthly",
+      "isPaid": false
+    },
+    {
+      "id": "gym",
+      "title": "Абонемент в спортзал",
+      "amount": 1200,
+      "dueDate": "10.12.2025",
+      "isRepeating": true,
+      "repeatRule": "monthly",
+      "isPaid": false
+    },
+    {
+      "id": "transport",
+      "title": "Проездной",
+      "amount": 1350,
+      "dueDate": "01.12.2025",
+      "isRepeating": true,
+      "repeatRule": "monthly",
+      "isPaid": false
+    },
+    {
+      "id": "books",
+      "title": "Учебные материалы",
+      "amount": 2500,
+      "dueDate": "25.11.2025",
+      "isRepeating": false,
+      "repeatRule": null,
+      "isPaid": false
+    },
+    {
+      "id": "course",
+      "title": "Онлайн-курс по программированию",
+      "amount": 1800,
+      "dueDate": "15.12.2025",
+      "isRepeating": false,
+      "repeatRule": null,
+      "isPaid": false
+    },
+    {
+      "id": "med",
+      "title": "Медкомиссия",
+      "amount": 900,
+      "dueDate": "20.12.2025",
+      "isRepeating": false,
+      "repeatRule": null,
+      "isPaid": false
+    }
+  ]
+}
