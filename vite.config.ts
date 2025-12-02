@@ -4,8 +4,8 @@
   import path from 'path';
 
   export default defineConfig({
-    base: '/studlife/',
     plugins: [react()],
+    base: '/StudLife/',
     resolve: {
       extensions: ['.js', '.jsx', '.ts', '.tsx', '.json'],
       alias: {
